@@ -14,7 +14,7 @@ class Dish {
     required this.name,
     required this.description,
     required this.price,
-    required this.imageAsset,
+    required this.imageUrl,
     required this.category,
     required this.rating,
     required this.reviewCount,
@@ -26,7 +26,7 @@ class Dish {
   final String name;
   final String description;
   final int price;
-  final String imageAsset;
+  final String imageUrl;
   final DishCategory category;
   final double rating;
   final int reviewCount;
