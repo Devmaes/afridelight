@@ -11,5 +11,5 @@ class AudioFeedbackService {
     await HapticFeedback.lightImpact();
   }
 
-  Future<void> dispose() async {}
+  void dispose() {}
 }
