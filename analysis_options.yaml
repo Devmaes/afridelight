@@ -1,0 +1,28 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    avoid_print: error
+    invalid_use_of_protected_member: error
+    invalid_use_of_visible_for_testing_member: error
+  exclude:
+    - build/**
+
+linter:
+  rules:
+    always_declare_return_types: true
+    avoid_dynamic_calls: true
+    avoid_empty_else: true
+    avoid_redundant_argument_values: true
+    cancel_subscriptions: true
+    close_sinks: true
+    directives_ordering: true
+    eol_at_end_of_file: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_final_fields: true
+    prefer_final_locals: true
+    prefer_single_quotes: true
+    sort_constructors_first: true
+    sort_pub_dependencies: true
+    unawaited_futures: true
