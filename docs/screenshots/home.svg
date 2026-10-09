@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="720" viewBox="0 0 360 720">
+<rect width="360" height="720" rx="28" fill="#fcfafc"/>
+<rect width="360" height="108" rx="28" fill="#ff7700"/>
+<rect y="80" width="360" height="40" fill="#ff7700"/>
+<text x="24" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="white">AfriDelight</text>
+
+<rect x="20" y="135" width="320" height="150" rx="18" fill="#20130d"/>
+<text x="38" y="180" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="white">Poulet Braisé</text>
+<text x="38" y="210" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#ffc632">&amp; Poisson Braisé</text>
+<rect x="38" y="232" width="150" height="34" rx="16" fill="#ff5b12"/>
+<text x="53" y="254" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="white">Commander maintenant</text>
+<text x="22" y="330" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#15151b">Plats recommandés</text>
+<rect x="20" y="355" width="98" height="180" rx="16" fill="white" stroke="#e9e5eb"/>
+<rect x="131" y="355" width="98" height="180" rx="16" fill="white" stroke="#e9e5eb"/>
+<rect x="242" y="355" width="98" height="180" rx="16" fill="white" stroke="#e9e5eb"/>
+<circle cx="69" cy="405" r="34" fill="#ffe9d8"/><circle cx="180" cy="405" r="34" fill="#ffe9d8"/><circle cx="291" cy="405" r="34" fill="#ffe9d8"/>
+<text x="32" y="468" font-family="Arial,sans-serif" font-size="15" font-weight="700">Poulet DG</text>
+<text x="145" y="468" font-family="Arial,sans-serif" font-size="15" font-weight="700">Alloco</text>
+<text x="257" y="468" font-family="Arial,sans-serif" font-size="15" font-weight="700">Ndolé</text>
+
+<rect x="0" y="650" width="360" height="70" fill="white"/>
+<text x="20" y="690" font-family="Arial,sans-serif" font-size="14" fill="#ff5b12">Home</text>
+<text x="90" y="690" font-family="Arial,sans-serif" font-size="14" fill="#888">Menu</text>
+<text x="160" y="690" font-family="Arial,sans-serif" font-size="14" fill="#888">Cart</text>
+<text x="225" y="690" font-family="Arial,sans-serif" font-size="14" fill="#888">Favorites</text>
+<text x="310" y="690" font-family="Arial,sans-serif" font-size="14" fill="#888">Profile</text>
+</svg>

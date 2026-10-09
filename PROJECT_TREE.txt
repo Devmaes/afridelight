@@ -1,0 +1,20 @@
+afridelight/
+├── .github/workflows/flutter_ci.yml
+├── docs/
+│   ├── ARCHITECTURE.md
+│   ├── DEVELOPMENT.md
+│   └── screenshots/
+├── lib/
+│   ├── app/
+│   ├── core/
+│   └── features/
+│       ├── cart/
+│       ├── catalog/
+│       ├── favorites/
+│       ├── profile/
+│       └── tracking/
+├── test/
+├── tool/
+├── analysis_options.yaml
+├── pubspec.yaml
+└── README.md
