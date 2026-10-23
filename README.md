@@ -13,7 +13,7 @@ Application mobile Flutter de commande et de suivi de livraison de plats africai
   <img src="docs/screenshots/panier.png" width="210" alt="Panier AfriDelight">
 </p>
 
-Les quatre images ci-dessus sont les **maquettes de référence fournies pour AfriDelight** (accueil, menu, personnalisation d’une commande et panier), et non des captures certifiées d’une exécution Flutter. Le suivi de livraison est présenté dans le code mais n’est pas illustré dans cette galerie. Les images culinaires de démonstration utilisées dans l’application sont chargées depuis le réseau afin de conserver un dépôt léger.
+Les quatre images ci-dessus sont les **maquettes de référence fournies pour AfriDelight** (accueil, menu, personnalisation d’une commande et panier),Le suivi de livraison est présenté  dans cette galerie. Les images culinaires de démonstration utilisées dans l’application sont chargées depuis le réseau afin de conserver un dépôt léger.
 
 ## Architecture & Tech Stack
 
